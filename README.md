@@ -14,10 +14,10 @@ Automated Data Export: Converts extracted data into a Pandas DataFrame and expor
 
 Error Handling & Scalability: Includes retries, exception handling, and structured storage for seamless operation.
 
-🛠️ Technologies Used:
+🛠️ Technologies Used
 
-Python
-Requests-HTML & BeautifulSoup (for web scraping)
-Pandas (for data processing & storage)
+Python,
+Requests-HTML & BeautifulSoup (for web scraping),
+Pandas (for data processing & storage),
 OS & Time Modules (for automation & file handling)
-Excel File Export (openpyxl)
+Excel File Export (openpyxl),
